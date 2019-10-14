@@ -12,24 +12,22 @@ body{
     margin-right:auto;
 }
 
-.eviter {
-    text-decoration: none;
+.text{
     color: white;
     text-align: center;
-    height: 10em; 
-    line-height: 15em; 
 }
 
-.faire {
-    text-decoration: none;
+.textbis{
     color: white;
     text-align: center;
-    height: 10em; 
-    line-height: 0em;   
+    font-size: x-large;
 }
 
-a {
-    text-decoration: none;
-    color: white;
-    }
-
+.img{
+    width: 200px;
+    height: 200px;
+    display:block;
+    width:auto;
+    margin-left:auto;
+    margin-right:auto;
+}
